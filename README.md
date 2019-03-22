@@ -1,8 +1,8 @@
 # MediaPickerHelper
-Swift extension for handling the process of image/video selection.
+UIViewController extension for handling the process of image/video selection.
 
 ## Getting Started
-This is a simple UIViewController extension file, just place it with your code and use.
+Just place it with your code and use...
 
 ### Use
 Call the following function from your UIViewController:
